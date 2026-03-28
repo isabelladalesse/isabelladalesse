@@ -10,8 +10,10 @@ Educação e divulgação científica
 Projetos com impacto social
 
 ### Tenho familiaridade com:
-![Static Badge](https://img.shields.io/badge/SQL)
-
+![Static Badge](https://img.shields.io/badge/-C%2B%2B-blue)
+![Static Badge](https://img.shields.io/badge/-SQL-orange)
+![Static Badge](https://img.shields.io/badge/-Python-yellow)
+![Static Badge](https://img.shields.io/badge/-Godot-purple)
 
 ### Como me encontrar:
 
