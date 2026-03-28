@@ -4,10 +4,10 @@ Sou graduanda em matemática na Universidade Federal de Juiz de Fora apaixonada 
 
 ### Tenho interesse em:
 
-Matemática
-Análise de dados
-Educação e divulgação científica
-Projetos com impacto social
+- Matemática
+- Análise de dados
+- Educação e divulgação científica
+- Projetos com impacto social
 
 ### Tenho familiaridade com:
 ![Static Badge](https://img.shields.io/badge/-C%2B%2B-blue)
