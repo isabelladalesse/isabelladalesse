@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Oi, eu sou a Isabella Dalesse!
 
-<!--
-**isabelladalesse/isabelladalesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou graduanda em matemática na Universidade Federal de Juiz de Fora apaixonada por educação, tecnologia e projetos que unem conhecimento e impacto social. Atualmente, trabalho em iniciativas educacionais como o desenvolvimento do jogo Grace Code, que busca aproximar mulheres da tecnologia por meio do ensino de pensamento computacional para estudantes do ensino médio.
 
-Here are some ideas to get you started:
+###Tenho interesse em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Matemática
+Análise de dados
+Educação e divulgação científica
+Projetos com impacto social
+
+###Tenho familiaridade com:
+![Static Badge](https://img.shields.io/badge/SQL)
+
+
+###Como me encontrar:
+
+www.linkedin.com/in/isabella-dalesse
